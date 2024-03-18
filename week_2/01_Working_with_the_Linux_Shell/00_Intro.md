@@ -1,4 +1,4 @@
-\begingroup\centering
+
 
 ![](./images/cc-by-sa.png "Creative Commons Attribution-ShareAlike 4.0 International")\
 \ \
@@ -9,7 +9,7 @@ is licensed under a\
 
 <https://github.com/dullroar/ten-steps-to-linux-survival/releases>
 
-\endgroup
+
 
 ----
 
