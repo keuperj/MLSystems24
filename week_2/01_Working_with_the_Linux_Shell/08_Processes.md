@@ -9,6 +9,8 @@
 >     * `ps -A` - shows ***all*** running processes
 >     * `ps -A | grep bash` - show all running bash processes
 > * `top` - show "top" processes by CPU, memory and other criteria
+> * `kill PID`stops process
+> * `kill all myprog` kills all instance of myprog
 
 ## /proc file system
 
