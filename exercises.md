@@ -2,7 +2,6 @@
 ## Math
 
 ```{exercise}
-:label: book_exercises_math
 1.  Look at the `man` pages for `bc`.
 2.  Try doing some math in `bc` interactively.
 3.  Try writing some equations in a file and then provide that file as
@@ -13,7 +12,6 @@
 ## Variables
 
 ```{exercise}
-:label: book_exercises_variables
 1.  Write a Bash program where you assign two numbers to different
     variables, and then the program prints the sum of those variables.
 2.  Write another Bash program where you assign two strings to different
@@ -28,7 +26,6 @@
 ## User Input
 
 ```{exercise}
-:label: book_exercises_user_input
 1.  Write a script that asks the user for an adjective, a noun, and a
     verb, and then use those words in a sentence (like [Mad
     Libs](https://en.wikipedia.org/wiki/Mad_Libs)).
@@ -38,7 +35,6 @@
 ## Logic and If/Else
 
 ```{exercise}
-:label: book_exercises_logic_and_if_else
 1.  Write a Bash script that takes a string as an argument and prints
     "how proper" if the string starts with a capital letter.
 2.  Write a Bash script that takes one argument and prints "even" if the
@@ -54,7 +50,6 @@
 ## Arrays
 
 ```{exercise}
-:label: book_exercises_arrays
 1.  Write a bash script where you define an array inside of the script,
     and the first argument for the script indicates the index of the
     array element that is printed to the console when the script is run.
@@ -66,14 +61,12 @@
 ## Braces
 
 ```{exercise}
-:label: book_exercises_braces
 1.  Create 100 text files using brace expansion.
 ```
 
 ## Loops
 
 ```{exercise}
-:label: book_exercises_loops
 -   Write several programs with three levels of nesting and include FOR
     loops, WHILE loops, and IF statements. Before you run your program
     try to predict what your program is going to print. If the result is
@@ -90,7 +83,6 @@ Below this list of exercises you can find examples of how these programs
 should work when used on the command line.
 
 ````{exercise}
-:label: book_exercises_functions
 1.  Write a function called `plier` which multiplies together a sequence
     of numbers.
 2.  Write a function called `isiteven` that prints `1` if a number is
@@ -150,7 +142,6 @@ Below this list of exercises you can find examples of how the programs
 described here should work when used on the command line.
 
 ````{exercise}
-:label: book_exercises_writing_programs
 1.  Make a script executable.
 2.  Put that script in a directory that you create and make that
     directory part of your `PATH`.
