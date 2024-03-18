@@ -1,10 +1,10 @@
 
 
-![](./images/cc-by-sa.png "Creative Commons Attribution-ShareAlike 4.0 International")\
+![](./images/cc-by-sa.png "Creative Commons Attribution-ShareAlike 4.0 International")
 
-*Ten Steps to Linux Survival - Bash for Windows People*\
-by James Lehmer\
-is licensed under a\
+*Ten Steps to Linux Survival - Bash for Windows People*
+by James Lehmer
+is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <https://github.com/dullroar/ten-steps-to-linux-survival/releases>
