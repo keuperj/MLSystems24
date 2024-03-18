@@ -14,16 +14,22 @@ is licensed under a
 ----
 
 
-## Additions By Janis Keuper
-* 
 
 # How to Get Here ?
 
 ## Connect to a Linux Server from Linux/MacOS Shell
-
+Typically, you login to a Linux Server via SSH ...
+```
+ssh username@myserver.com
+```
+Sometimes additional keys or 2FA are needed... 
 
 
 ## Connect to a Linux Server from Windows
+From Windows, use ``Putty``
+<img src="https://www.putty.org/Putty.png">
+
+* [Putty Download](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 
 
