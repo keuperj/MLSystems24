@@ -14,4 +14,4 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 * [collection of bash script examples](https://github.com/ruanyf/simple-bash-scripts)
 
 ### Exercises
-
+* [Exercises](https://github.com/keuperj/MLSystems24/blob/main/week_2/exercises.md)
