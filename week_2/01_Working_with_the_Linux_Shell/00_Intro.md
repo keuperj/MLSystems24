@@ -1,7 +1,7 @@
 
 
 ![](./images/cc-by-sa.png "Creative Commons Attribution-ShareAlike 4.0 International")\
-\ \
+
 *Ten Steps to Linux Survival - Bash for Windows People*\
 by James Lehmer\
 is licensed under a\
