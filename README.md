@@ -1,7 +1,8 @@
 # MLSystems24
 Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 
-## Week 2
+## Week 2 - Linux Basics
+<img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/85/why-linux-2-320.jpg?cb=1669158512">
 ### Part I - Linux Shell
 * [Start here](https://github.com/keuperj/MLSystems24/blob/main/week_2/01_Working_with_the_Linux_Shell/00_Intro.md)
 
