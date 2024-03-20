@@ -13,6 +13,7 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 ### Helpfull stuff
 * [E-Book Linux Shell](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793425/mod_resource/content/1/TenStepsToLinuxSurvival.pdf)
 * [E-Book Bash Scripting](https://elearning.hs-offenburg.de/moodle/pluginfile.php/793426/mod_resource/content/1/introduction-to-bash-scripting-light.pdf)
+* [E-Book Introduction to Linux](https://tldp.org/LDP/intro-linux/intro-linux.pdf)
 * [collection of bash script examples](https://github.com/ruanyf/simple-bash-scripts)
 
 ### Exercises
