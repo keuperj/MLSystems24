@@ -18,3 +18,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 
 ### Exercises
 * [Exercises](https://github.com/keuperj/MLSystems24/blob/main/week_2/exercises.md)
+
+### Linux Shell in Colab
+* [Shell hack in Colab](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_2/Linux_Shell_in_Colab.ipynb)
