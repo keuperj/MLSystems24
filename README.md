@@ -37,4 +37,4 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 ### WandB
 * [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
 * [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
-* [WandB Profiling](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Profile_PyTorch_Code.ipynb)
+
