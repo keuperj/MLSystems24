@@ -21,3 +21,21 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 
 ### Linux Shell in Colab
 * [Shell hack in Colab](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_2/Linux_Shell_in_Colab.ipynb)
+
+## Week 3 - Experiment Tracking
+
+### Prelude 
+* [Git test](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=334808)
+* [Git course](https://elearning.hs-offenburg.de/moodle/course/view.php?id=6765)
+
+### TensorBoard
+* [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/tensorboard_with_pytorch.ipynb)
+
+### MLFlow
+* [tunnel Turorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/tunneling_tutorial.ipynb)
+* [MLFlow Intro](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/MLFlow_Tutorial.ipynb)
+
+### WandB
+* [PyTorch API](https://docs.wandb.ai/guides/integrations/pytorch)
+* [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
+* [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
