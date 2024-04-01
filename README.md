@@ -32,7 +32,6 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 * [TensorBoard with PyTorch](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/tensorboard_with_pytorch.ipynb)
 
 ### MLFlow
-* [tunnel Turorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/tunneling_tutorial.ipynb)
 * [MLFlow Intro](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_3/MLFlow_Tutorial.ipynb)
 
 ### WandB
