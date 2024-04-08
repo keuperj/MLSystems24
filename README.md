@@ -39,3 +39,9 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
 * [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
 
+## Woche 4
+
+### Labor
+* [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/dvc_tutorial.ipynb)
+* [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/DeepLakeTutorial.ipynb)
+* [DeepLake Pytorch Data Streaming Example](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/DeepLakePyTorchExample.ipynb)
