@@ -1,7 +1,10 @@
 # MLSystems24
 Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 
-## Week 2 - Linux Basics
+</details>
+<details>
+<summary> <H2> Week 2 - Linux Basics</H2><BR></summary>
+
 <img src="https://image.slidesharecdn.com/whylinux-090425042333-phpapp01/75/why-linux-2-2048.jpg?cb=1669158512" width=640>
 
 ### Part I - Linux Shell
@@ -22,7 +25,9 @@ Material zur Vorlesung + Labor ML Systems an der HSO im SS24
 ### Linux Shell in Colab
 * [Shell hack in Colab](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_2/Linux_Shell_in_Colab.ipynb)
 
-## Week 3 - Experiment Tracking
+</details>
+<details>
+<summary> <H2> Week 3 - Experiment Tracking </H2><BR></summary>
 
 ### Prelude 
 * [Git test](https://elearning.hs-offenburg.de/moodle/mod/quiz/view.php?id=334808)
@@ -39,13 +44,16 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [WandB Intro](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/intro/Intro_to_Weights_%26_Biases.ipynb)
 * [WandB Parameter Sweeps](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb)
 
-## Woche 4 - Data Versioning
+</details>
+<details>
+<summary> <H2> Week 4 - Data Versioning </H2><BR></summary>
 
 ### Labor
 * [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/dvc_tutorial.ipynb)
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/Getting_Started_with_Deep_Lake.ipynb)
 
-## Woche 5
+</details>
+## Week 5 - AutoML
 
 ### Auto Scikit-Learn
 * [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
