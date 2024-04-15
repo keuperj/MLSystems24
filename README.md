@@ -44,3 +44,19 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 ### Labor
 * [DVC tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/dvc_tutorial.ipynb)
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/Getting_Started_with_Deep_Lake.ipynb)
+
+## Woche 5
+
+### Auto Scikit-Learn
+* [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
+* [AutoSK-Learn Demo](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_5/autosklearn.ipynb)
+
+### EvoTorch
+* [EvoTorch Docs](https://docs.evotorch.ai/v0.4.1/)
+* [EvoTorch trining MNIST example](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_5/evotorch_MNIST30K.ipynb)
+
+### NAS 
+* [NAS Bench-101](https://github.com/google-research/nasbench)
+* [NAS Bench-101 PyTorch Implementation](https://github.com/romulus0914/NASBench-PyTorch/tree/master)
+* [NNI NAS Framework](https://github.com/microsoft/nni/)
+* [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_5/NNI_nas.ipynb)
