@@ -86,5 +86,5 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/pip_tutorial.ipynb)
 * [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/torch_package.ipynb)
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/ONNX.ipynb)
-* [MLFlow Model Deploymenr](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/MLFlow.ipynb)
+* [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/Evidently.ipynb)
