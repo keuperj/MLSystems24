@@ -53,8 +53,8 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [DeepLake Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_4/Getting_Started_with_Deep_Lake.ipynb)
 
 </details>
-
-## Week 5 - AutoML
+<details>
+<summary> <H2> Week 5 - AutoML </H2><BR></summary>
 
 ### Auto Scikit-Learn
 * [AutoSK-Learn Docs](https://automl.github.io/auto-sklearn/master/index.html)
@@ -69,3 +69,22 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [NAS Bench-101 PyTorch Implementation](https://github.com/romulus0914/NASBench-PyTorch/tree/master)
 * [NNI NAS Framework](https://github.com/microsoft/nni/)
 * [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_5/NNI_nas.ipynb)
+
+</details>
+
+## Week 6 - Model Management
+### Links
+* [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [TorchPackage API](https://pytorch.org/docs/stable/package.html)
+* [ONNX Docu](https://onnx.ai/onnx/intro/index.html)
+* [TorchDeploy Docu](https://github.com/mochangheng/pytorch-deploy)
+* [TorchServe Docu](https://github.com/pytorch/serve)
+* [Evidently Docu](https://github.com/evidentlyai/evidently/)
+
+### Labor
+* [MLFlow Model registry](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/MLFlow.ipynb)
+* [Deploy Models with Pip](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/pip_tutorial.ipynb)
+* [Deploy Models with TorchPackage](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/torch_package.ipynb)
+* [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/ONNX.ipynb)
+* [MLFlow Model Deploymenr](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/MLFlow.ipynb)
+* [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/Evidently.ipynb)
