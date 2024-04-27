@@ -71,8 +71,9 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [NNI Demo](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_5/NNI_nas.ipynb)
 
 </details>
-
-## Week 6 - Model Management
+<details>
+<summary> <H2> Week 6 - Model Management </H2><BR></summary>
+  
 ### Links
 * [Pip Tutorial](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 * [TorchPackage API](https://pytorch.org/docs/stable/package.html)
@@ -88,3 +89,11 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Cross-Platform Deployment with ONNX](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/ONNX.ipynb)
 * [MLFlow Model Deployment](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/MLFlow.ipynb)
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/Evidently.ipynb)
+
+</details>
+
+## Week 7
+Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
+
+* [Anaconda Environments + Jupyter](week_7/assigment_1.md)
+* [Docker](week_7/assignment_2.md)
