@@ -91,9 +91,29 @@ Needs free account from [wandb.ai](https://wandb.ai/site) - use your HSO Google 
 * [Monitoring Models with Evidently](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_6/Evidently.ipynb)
 
 </details>
-
+<details>
+<summary> <H2> Week 7 - Softwarestacks </H2><BR></summary>
 ## Week 7
 Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and start the ***XFCE Base Linux***.
 
 * [Anaconda Environments + Jupyter](week_7/assigment_1.md)
 * [Docker](week_7/assignment_2.md)
+
+</details>
+
+## Week 8 - UI
+
+### IPWidgets
+* [Docu](https://ipywidgets.readthedocs.io/en/latest/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_8/jupyter_widgets.ipynb) 
+* [Example](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_8/InteractiveML-Regression.ipynb) 
+
+### Voila
+* [Docu](https://voila.readthedocs.io/en/stable/)
+* [Example Gallery](https://voila-gallery.org/)
+* [Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_8/voila_tutorial.ipynb) 
+
+### Gradio
+* [Docu](https://gradio.app/docs/)
+* [Tutorial](https://gradio.app/quickstart/) 
+* [Exercise](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_8/Gradio_exercise.ipynb)
