@@ -1,6 +1,7 @@
 # MLSystems24
 Material zur Vorlesung + Labor ML Systems an der HSO im SS24
-
+<details>
+<summary> <H2> Week 1 - No Lab</H2><BR></summary>
 </details>
 <details>
 <summary> <H2> Week 2 - Linux Basics</H2><BR></summary>
@@ -101,7 +102,9 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 
 </details>
 
-## Week 8 - UI
+<details>
+<summary> <H2> Week 8 - UI</H2><BR></summary>
+
 
 ### IPWidgets
 * [Docu](https://ipywidgets.readthedocs.io/en/latest/)
@@ -117,3 +120,8 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 * [Docu](https://gradio.app/docs/)
 * [Tutorial](https://gradio.app/quickstart/) 
 * [Exercise](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_8/Gradio_exercise.ipynb)
+</details>
+
+<details>
+<summary> <H2> Week 9 - No Lab</H2><BR></summary>
+</details>
