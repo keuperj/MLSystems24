@@ -125,3 +125,18 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 <details>
 <summary> <H2> Week 9 - No Lab</H2><BR></summary>
 </details>
+
+## Woche 10
+
+### Links
+* [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+* [Howto build custom PyTorch extensions in CUDA](https://pytorch.org/tutorials/advanced/cpp_extension.html)
+
+### CUDA
+* [Intro to CUDA](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_10/CUDA_Intro.ipynb)
+
+### TPU
+* [Pytorch TPU Tutorial](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_10/Getting_Started_with_PyTorch_on_Cloud_TPUs.ipynb)
+* [MNIST on TPU](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_10/PyTorch_TPU_MNIST_Training.ipynb)
+* [TPU Profiling](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_10/PyTorch_XLA_Profling_Colab_Tutorial.ipynb)
+* [ResNet50 Inference: TPU vs GPU Performance](https://colab.research.google.com/github/keuperj/MLSystems24/blob/main/week_10/PyTorch_TPU_ResNet50_Inference.ipynb)
