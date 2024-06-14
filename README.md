@@ -126,8 +126,8 @@ Note: this week we use the *bwLehrPool* infrastructure. Boot the lab PC and star
 <summary> <H2> Week 9 - No Lab</H2><BR></summary>
 </details>
 
+<details>
 <summary> <H2> Week 10 - Cuda and TPU</H2><BR></summary>
-</details>
 
 ### Links
 * [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
